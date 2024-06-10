@@ -5,7 +5,24 @@
     <link rel="stylesheet" href="style.css">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossoring  
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap" rel="stylesshett">
 </head>
+<body>
+    <section class="principal content">
+        <div>
+            <h1 class="container_titulo"> com o combo+,voce pode aproveitar a alura Plus e o Alura Lingua por um valor justo
+            </h1>
+
+
+<img src="img/Combo.ong" alt="Imagem de propaganda da Alura ,com Iogotipo"
+        </div>
+    </section>
+
+
+
+</body>
 
 
 </html>
