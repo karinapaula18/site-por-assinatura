@@ -24,12 +24,16 @@ body {
     background-image: url("background.png");
     background-repeat: no-repeat;
     background-size: contain;
-    grid-template-columns: 50% 50%;
+    align-items: center;
+    text-align: center;
 }
 
 
 .container{
     height: 100vh;
+    display: grid;
+    grid-template-columns: 50% 50%;
+    
 }
 
 .cntainer botao {
@@ -38,6 +42,12 @@ body {
     padding: lem;
     color: var(--branco-principal);
     display: block;
+}
+
+.display: block{
+    text-decoration: none;
+    margin-bottom: 1em;
+
 }
 
 .botao_secundario {
@@ -127,6 +137,12 @@ body {
 
 .lista__link a-{
     text-decoration: none;
+    color: var(--cinza-secundario);
+    font-size: 14px;
+}
+
+.rodape_texto{
+    margin: 1em 0;
     color: var(--cinza-secundario);
     font-size: 14px;
 }
